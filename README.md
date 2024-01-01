@@ -103,11 +103,10 @@ if _name_ == '_main_':
 ![image](https://github.com/RuchitraThiyagaraj/mobilerobot-openloopcontrol/assets/154776996/298aafe0-4422-4a57-b11b-61060573a364)
 
 ## MobileRobot Movement Video:
-Thus the python program code is developed to move the mobilerobot in the predefined path.
 https://youtu.be/QXLH8UanVzQ?si=Ob8JmFQ1B-iRWb_Mp
 
 ## Result:
-
+Thus the python program code is developed to move the mobilerobot in the predefined path
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
